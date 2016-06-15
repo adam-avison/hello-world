@@ -1,2 +1,2 @@
 # hello-world
-Doing the tutoria
+Doing the tutorial, dum de dum
